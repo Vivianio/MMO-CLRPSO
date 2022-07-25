@@ -1,4 +1,5 @@
 # MMO-CLRPSO
+#Paper Name:A cluster based PSO with leader updating mechanism and ring-topology for multimodal multi-objective optimization
 #The copyright of this paper belongs to the author himself, no misappropriation is allowed.
 #Except for the content that has been marked and cited in the text, this paper does not contain research results 
 #that have been published or written by other individuals or groups.
